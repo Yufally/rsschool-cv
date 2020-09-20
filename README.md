@@ -1,1 +1,1 @@
-# https://Yufally.github.io/rsschool-cv/cv
+# https://Yufally.github.io/rsschool-cv/
