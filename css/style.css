@@ -1,0 +1,59 @@
+*{
+    padding: 0;
+    margin: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: "Arial", sans-serif;
+    font-size: 16px;
+    line-height: 1;
+}
+
+.wrapper {
+    margin: 0 auto;
+    background-color: #e0dfdf;
+    width: 1000px;
+}
+
+header {
+    display: flex;
+    background-color: #f3f3f3;
+}
+
+h1 {
+    color: black;
+    font-family: "Garamond", sans-serif;
+    font-size: 40px;
+    letter-spacing: 2px;
+    width: 60%;
+    margin-left: 100px;
+    text-align: center;
+    padding: 150px 0;
+}
+h2 {
+    color: gray;
+    text-align: center;
+    padding: 175px 20px 0 0;
+    font-family: "Bookman Old Style", sans-serif;
+    margin-right: 80px;
+    width: 100%;
+}
+
+p {
+    margin: 50px;
+}
+
+main {
+    font-family: "Bookman Old Style", sans-serif;
+}
+
+div {
+    background-color: #f3f3f3;
+}
+.aboutMe {padding: 20px 20px; line-height: 1.3}
+.knowledge {padding: 20px 20px;}
+.education {padding: 20px 20px;}
+.levelEnglish {padding: 20px 20px;}
